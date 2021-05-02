@@ -1,17 +1,17 @@
 # Breast Cancer Prediction using Genomic Data #
 
-Here in this project I have implemented machine learning algorithms to predict ___Breast Cancer___ in patients using their ___Gene Expression Data___.
+* Here in this project I have implemented machine learning algorithms to predict ___Breast Cancer___ in patients using their ___Gene Expression Data___
 
-I have implemented ___3___ machine learning Models:
-1. Support Vector Machine
-2. Randomn Forest
-3. Decision Tree
+* I have implemented ___3___ machine learning Models:
+ 1. Support Vector Machine
+ 2. Randomn Forest
+ 3. Decision Tree
 
-Model                   | Accuracy (%)
-:---------------------: | :-----------:
-Randomn Forest          | 99.07
-Decision Tree           | 97.53
-Support Vector Machine  | 97.22
+  Model                   | Accuracy (%)
+  :---------------------: | :-----------:
+  Randomn Forest          | 99.07
+  Decision Tree           | 97.53
+  Support Vector Machine  | 97.22
 
 * The Gene Expression dataset is attached as upscale.csv
   * There are total ___21 Genes in the Dataset___
